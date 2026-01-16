@@ -4,7 +4,8 @@
 <!-- ========================= -->
 ## 👋 Halo, Saya Miftah Aufar
 
----
+---## 📊 Statistik GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavinGM&show_icons=true&theme=dark)
 
 - 💼 Terbuka untuk kerja sama dan diskusi teknis
 - 📫 Silakan hubungi melalui GitHub
@@ -18,7 +19,7 @@ Saya mulai ketertarikan di bagian backend karena saya bisa memahami alur atau lo
 
 ---
 
-# 🎯 Fokus Keahlian
+### 🎯 Fokus Keahlian
 - Pengembangan aplikasi backend dan logika bisnis
 - Perancangan dan implementasi RESTful API
 - Manajemen dan optimasi basis data
@@ -26,7 +27,7 @@ Saya mulai ketertarikan di bagian backend karena saya bisa memahami alur atau lo
 
 ---
 
-# 🛠 Backend Stack
+### 🛠 Backend Stack
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
