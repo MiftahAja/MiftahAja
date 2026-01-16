@@ -4,9 +4,6 @@
 <!-- ========================= -->
 ## 👋 Halo, Saya Miftah Aufar
 
----## 📊 Statistik GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavinGM&show_icons=true&theme=dark)
-
 - 💼 Terbuka untuk kerja sama dan diskusi teknis
 - 📫 Silakan hubungi melalui GitHub
 - 😄 Pronouns: Dia / Laki-laki
