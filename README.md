@@ -2,7 +2,13 @@
 <!--     PROFILE README       -->
 <!--     BACKEND DEVELOPER    -->
 <!-- ========================= -->
-👋 Halo, Saya Miftah Aufar
+## 👋 Halo, Saya Miftah Aufar
+
+---
+
+- 💼 Terbuka untuk kerja sama dan diskusi teknis
+- 📫 Silakan hubungi melalui GitHub
+- 😄 Pronouns: Dia / Laki-laki
 
 Saya Miftah Aufar(emip),
 Saya merupakan seorang **Backend Developer** yang memiliki ketertarikan kuat pada pengembangan sistem sisi server yang andal, aman, dan mudah dikembangkan. Saya berfokus pada perancangan serta implementasi **logika bisnis**, **RESTful API**, dan **manajemen basis data** guna mendukung aplikasi yang skalabel dan berkelanjutan.
@@ -12,23 +18,15 @@ Saya mulai ketertarikan di bagian backend karena saya bisa memahami alur atau lo
 
 ---
 
-## 🎯 Fokus Keahlian
+# 🎯 Fokus Keahlian
 - Pengembangan aplikasi backend dan logika bisnis
 - Perancangan dan implementasi RESTful API
 - Manajemen dan optimasi basis data
 - Integrasi layanan pihak ketiga
-- Penerapan praktik clean code dan maintainable architecture
-  
----
-
-💬 Informasi Tambahan
-- 💼 Terbuka untuk kerja sama dan diskusi teknis
-- 📫 Silakan hubungi melalui GitHub
-- 😄 Pronouns: Dia / Laki-laki
 
 ---
 
-🛠 Backend Stack
+# 🛠 Backend Stack
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -42,5 +40,3 @@ Saya mulai ketertarikan di bagian backend karena saya bisa memahami alur atau lo
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Google%20Cloud%20Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
----
