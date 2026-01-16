@@ -2,9 +2,6 @@
 <!--     PROFILE README       -->
 <!--     BACKEND DEVELOPER    -->
 <!-- ========================= -->
-
-![Banner](img/banner.png)
-
 👋 Halo, Saya Miftah Aufar
 
 Saya Miftah Aufar(emip),
@@ -47,7 +44,3 @@ Saya mulai ketertarikan di bagian backend karena saya bisa memahami alur atau lo
 ![Google%20Cloud%20Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
-
-📊 Statistik GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavinGM&show_icons=true&theme=dark)
-
